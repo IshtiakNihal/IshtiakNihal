@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/https://codepen.io/ishtiaknihal" target="blank"
+  <a href="https://codepen.io/ishtiaknihal" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -71,7 +71,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.youtube.com/c/@ainhq"
+    href="https://www.youtube.com/@ainhq"
     target="blank"
     ><img
       align="center"
