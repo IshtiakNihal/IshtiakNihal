@@ -33,7 +33,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/ishtiak-nihal-006a88181/"
+    href="https://linkedin.com/in/ishtiak-nihal-006a88181/"
     target="blank"
     ><img
       align="center"
@@ -43,7 +43,7 @@
       width="40"
   /></a>
   <a
-    href="https://kaggle.com/https://www.kaggle.com/ahmedishtiak"
+    href="https://kaggle.com/ahmedishtiak"
     target="blank"
     ><img
       align="center"
@@ -52,7 +52,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/https://www.facebook.com/ishtiaknihal" target="blank"
+  <a href="https://fb.com/ishtiaknihal" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -61,7 +61,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.behance.net/https://www.behance.net/ishtiaknihal"
+    href="https://www.behance.net/ishtiaknihal"
     target="blank"
     ><img
       align="center"
@@ -71,7 +71,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.youtube.com/c/https://www.youtube.com/@ainhq"
+    href="https://www.youtube.com/c/@ainhq"
     target="blank"
     ><img
       align="center"
@@ -81,7 +81,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.codechef.com/users/https://www.codechef.com/users/ishtiak_nihal"
+    href="https://www.codechef.com/users/ishtiak_nihal"
     target="blank"
     ><img
       align="center"
@@ -91,7 +91,7 @@
       width="40"
   /></a>
   <a
-    href="https://www.hackerrank.com/https://www.hackerrank.com/ahmedishtiak84"
+    href="https://www.hackerrank.com/ahmedishtiak84"
     target="blank"
     ><img
       align="center"
