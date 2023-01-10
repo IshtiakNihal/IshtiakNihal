@@ -16,10 +16,11 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Blockchain & Smart Contract** - 🌱 I’m currently
-learning **Everything that is fine with me** - 💬 Ask me about **Technological
-things** - 📫 How to reach me **ahmedishtiak84@gmail.com** - ⚡ Fun fact **I
-don't know Nothing😂**
+- 🔭 I’m currently working on **Blockchain & Smart Contract** 
+- 🌱 I’m currently learning **Everything that is fine with me** 
+- 💬 Ask me about **Technological things**
+- 📫 How to reach me **ahmedishtiak84@gmail.com** 
+- ⚡ Fun fact **I don't know Nothing😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
