@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Welcome to [Your Name]'s Universe 🌌
+# 🌌 Welcome to Ahmed Ishtiak Nihal's Universe 🌌
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=30&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Innovator+%7C+Future+Creator)
 
@@ -15,11 +15,11 @@
 ---
 
 ### 👾 About Me
-Hey there! I’m [Your Name], a passionate developer crafting digital experiences with a futuristic twist. I love blending code, creativity, and cutting-edge tech to build solutions that push boundaries.
+I'm a passionate technologist with a keen interest in exploring and understanding emerging trends. I leverage my expertise in blockchain technology to provide insightful reviews and analysis, ensuring clear communication for a broad audience. My focus is on simplifying complex topics and fostering a deeper understanding of the ever-evolving technological landscape.
 
-- 🔭 Currently working on: [Your Current Project]
-- 🌱 Learning: [e.g., Machine Learning, Web3]
-- ⚡ Fun fact: [Something quirky or cool about you]
+- 🔭 Currently working on: theHarvester Automatic Script
+- 🌱 Learning: Linux, Networking
+- ⚡ Fun fact: I can cook and sleep all day
 
 ---
 
@@ -36,7 +36,7 @@ Hey there! I’m [Your Name], a passionate developer crafting digital experience
 ### 🚀Cybersecurity Projects
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **[Project 1]** | A futuristic app that [describe it briefly]. | [e.g., React, Firebase] | [GitHub Link] |
+| **[Project 1]** | theHarvester Automation Script Using "Bash in Terminal" [This is an OSINT Tool but I made a script for easy usage. Here we have many searching options but need to search one by one, thats why I made a script to search everything at a time.]. | [e.g., Bash, Shell] | [(https://github.com/IshtiakNihal/theHarvester-Automation-Script.git)] |
 
 ---
 
@@ -50,8 +50,8 @@ Hey there! I’m [Your Name], a passionate developer crafting digital experience
 
 ### 🌐 Connect With Me
 <div align="center">
-  <a href="https://twitter.com/[your-twitter]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/JotaroNihal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/ishtiak-nihal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
