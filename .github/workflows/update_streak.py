@@ -70,6 +70,10 @@ else:
     achievement = "No Streak Yet"
     rank = "Space Cadet"
 
+# Calculate star rating (1 star per 5 days, max 5 stars)
+stars = min(streak // 5, 5)  # 1 star for every 5 days, up to 5 stars
+star_rating = "⭐" * stars + " (" + str(stars) + "/5 Stars)"
+
 # Generate streak.json for the progress bar
 streak_data = {"progress": streak}
 with open("streak.json", "w") as f:
@@ -94,6 +98,10 @@ content = re.sub(r'https://img.shields.io/badge/Galactic%20Rank-[^-]*-7C4DFF\?st
 # Replace the text
 new_text = f"**🌟 Current Streak: {streak} Days | Goal: {goal} Days 🌟**"
 content = re.sub(r'\*\*🌟 Current Streak: \d+ Days \| Goal: \d+ Days 🌟\*\*', new_text, content)
+
+# Replace the star rating
+new_star_rating = star_rating
+content = re.sub(r'⭐* \(\d+/5 Stars\)', new_star_rating, content)
 
 with open("README.md", "w") as file:
     file.write(content)
