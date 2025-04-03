@@ -1,6 +1,7 @@
 import requests
 import re
 import os
+import json
 
 # GitHub API setup
 username = "ahmed-ishtiak-nihal"
@@ -69,6 +70,11 @@ else:
     achievement = "No Streak Yet"
     rank = "Space Cadet"
 
+# Generate streak.json for the progress bar
+streak_data = {"progress": streak}
+with open("streak.json", "w") as f:
+    json.dump(streak_data, f)
+
 # Update README
 with open("README.md", "r") as file:
     content = file.read()
@@ -76,10 +82,6 @@ with open("README.md", "r") as file:
 # Replace the streak badge
 new_streak_badge = f"https://img.shields.io/badge/Streak-{streak}%2F{goal}-7C4DFF?style=for-the-badge&logo=fire"
 content = re.sub(r'https://img.shields.io/badge/Streak-\d+%2F\d+-7C4DFF\?style=for-the-badge&logo=fire', new_streak_badge, content)
-
-# Replace the progress bar
-new_progress_bar = f"https://progress-bar.dev/{streak}/?scale={goal}&title=Streak%20Progress&width=200&color=7C4DFF&suffix=%20Days"
-content = re.sub(r'https://progress-bar.dev/\d+/\?scale=\d+&title=Streak%20Progress&width=200&color=7C4DFF&suffix=%20Days', new_progress_bar, content)
 
 # Replace the achievement badge
 new_achievement_badge = f"https://img.shields.io/badge/{achievement.replace(' ', '%20')}-7C4DFF?style=for-the-badge&logo=trophy"
@@ -90,8 +92,8 @@ new_rank_badge = f"https://img.shields.io/badge/Galactic%20Rank-{rank.replace(' 
 content = re.sub(r'https://img.shields.io/badge/Galactic%20Rank-[^-]*-7C4DFF\?style=for-the-badge&logo=rocket', new_rank_badge, content)
 
 # Replace the text
-new_text = f"🌟 Current Streak: {streak} Days | Goal: {goal} Days 🌟"
-content = re.sub(r'🌟 Current Streak: \d+ Days \| Goal: \d+ Days 🌟', new_text, content)
+new_text = f"**🌟 Current Streak: {streak} Days | Goal: {goal} Days 🌟**"
+content = re.sub(r'\*\*🌟 Current Streak: \d+ Days \| Goal: \d+ Days 🌟\*\*', new_text, content)
 
 with open("README.md", "w") as file:
     file.write(content)
