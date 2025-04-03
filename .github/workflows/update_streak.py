@@ -104,7 +104,7 @@ content = re.sub(r'https://img.shields.io/badge/Streak-\d+%2F\d+-7C4DFF\?style=f
 
 # Replace the achievement badge
 new_achievement_badge = f"https://img.shields.io/badge/{achievement.replace(' ', '%20')}-7C4DFF?style=for-the-badge&logo=trophy"
-content = re.sub(r'https://img.shields.io/badge/[^-]*-7C4DFF\?style=for-the-badge&logo=trophy', new_achievement_badge, content)
+content = re.sub(r'https://img\.shields\.io/badge/[^"]+-7C4DFF\?style=for-the-badge&logo=trophy', new_achievement_badge, content)
 
 # Replace the Galactic Rank badge
 new_rank_badge = f"https://img.shields.io/badge/Galactic%20Rank-{rank.replace(' ', '%20')}-7C4DFF?style=for-the-badge&logo=rocket"
