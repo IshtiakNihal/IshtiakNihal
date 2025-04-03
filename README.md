@@ -10,7 +10,11 @@
 
 ### 👾 Interstellar Visitors
 <div align="center">
-  [![](https://komarev.com/ghpvc/?username=IshtiakNihal&color=blueviolet)](https://github.com/IshtiakNihal)
+  🌌 **Travelers from Across the Galaxy!** 🌌  
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ahmed-ishtiak-nihal&color=blueviolet&style=plastic&base=1000&abbreviated=true" alt="Profile Views">
+  <br><br>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmYnNhMDdxOXpzcGR3NGtvYm1xZ2YxZWpyMjV0em00M2IyaHAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BoCVdjSJOWT0Fpu/giphy.gif" alt="UFO Animation" width="100">
 </div>
 
 ---
