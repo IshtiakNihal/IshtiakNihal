@@ -104,6 +104,6 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlGma97jJ2E3LGM/giphy.gif" alt="Cosmic GIF" width="300">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpxZzR1c2pqOGNwZHBhb3lraGtubXF0ZHd0Y3pra2hpanhkam1rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" alt="Cosmic GIF" width="300">
   <p>✨ "Securing the galaxy, one byte at a time." ✨</p>
 </div>
