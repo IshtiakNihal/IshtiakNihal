@@ -77,7 +77,7 @@ fostering a deeper understanding of the ever-evolving technological landscape.
   🌌✨ **Galactic Progress Dashboard** ✨🌌  
   <br><br>
   <img src="https://img.shields.io/badge/Streak-2%2F30-7C4DFF?style=for-the-badge&logo=fire" alt="Streak Progress">
-  <img src="https://img.shields.io/badge/dynamic/json?color=7C4DFF&label=Streak%20Progress&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-ishtiak-nihal%2Fahmed-ishtiak-nihal%2Fmain%2Fstreak.json&style=for-the-badge&max=30" alt="Progress Bar">
+  <img src="https://img.shields.io/badge/dynamic/json?color=7C4DFF&label=Streak%20Progress&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2FIshtiakNihal%2FaIshtiakNihal%2Fmain%2Fstreak.json&style=for-the-badge&max=30" alt="Progress Bar">
   <br><br>
   <img src="https://img.shields.io/badge/Bronze%20Streak-5%20Days-7C4DFF?style=for-the-badge&logo=trophy" alt="Bronze Streak">
   <img src="https://img.shields.io/badge/Galactic%20Rank-Space%20Cadet-7C4DFF?style=for-the-badge&logo=rocket" alt="Galactic Rank">
