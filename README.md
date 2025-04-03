@@ -11,10 +11,10 @@
 ### 👾 Interstellar Visitors
 <div align="center">
   🌌 **Travelers from Across the Galaxy!** 🌌  
-  <br>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=ahmed-ishtiak-nihal&color=blueviolet&style=plastic&base=1000&abbreviated=true" alt="Profile Views">
   <br><br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmYnNhMDdxOXpzcGR3NGtvYm1xZ2YxZWpyMjV0em00M2IyaHAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BoCVdjSJOWT0Fpu/giphy.gif" alt="UFO Animation" width="100">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg2aHBqOWQ0eXZma3piajc3cTgzc2Rpa2ptN2JyZ2g3dXdxbnZqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BoCVdjSJOWT0Fpu/giphy.gif" alt="UFO Animation" width="200">
 </div>
 
 ---
