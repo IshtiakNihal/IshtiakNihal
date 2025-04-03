@@ -1,34 +1,41 @@
 <div align="center">
 
-# 🌌 Welcome to Ahmed Ishtiak Nihal's Universe 🌌
+  # 🌠 Ahmed Ishtiak Nihal's Cosmic Firewall 🌠
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&size=30&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Innovator+%7C+Future+Creator)
+  ![Typing
+  SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=7C4DFF&size=30¢er=true&vCenter=true&width=600&lines=Cybersecurity+Guardian+%7C+Stellar+Code+Craftsman+%7C+Digital+Cosmonaut)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1E1E2F/00FFFF?text=Futuristic+Banner" alt="Futuristic Banner" width="100%">
+  <img src="https://via.placeholder.com/800x200/0A0A23/7C4DFF?text=Galactic+Security+Horizon" alt="Cosmic Banner"
+    width="100%">
 </div>
 
 ---
 
-### 👾 About Me
-I'm a passionate technologist with a keen interest in exploring and understanding emerging trends. I leverage my expertise in blockchain technology to provide insightful reviews and analysis, ensuring clear communication for a broad audience. My focus is on simplifying complex topics and fostering a deeper understanding of the ever-evolving technological landscape.
+### 🌌 About Me
+Greetings, traveler! I’m Ahmed Ishtiak Nihal, a cybersecurity enthusiast and I'm a passionate technologist with a keen interest
+in exploring and understanding emerging trends. I leverage my expertise in blockchain technology to provide insightful
+reviews and analysis, ensuring clear communication for a broad audience. My focus is on simplifying complex topics and
+fostering a deeper understanding of the ever-evolving technological landscape.
 
-- 🔭 Currently working on: theHarvester Automatic Script
-- 🌱 Learning: Linux, Networking
-- ⚡ Fun fact: I can cook and sleep all day
+- 🔭 Currently defending: [e.g., A network security project]
+- 🌑 Studying: [e.g., Ethical Hacking, Quantum Cryptography]
+- ⚡️ Cosmic quirk: [e.g., I name my servers after constellations]
 
 ---
 
-### 🛠️ Tech Stack
+### 🛡️ Cyber-Arsenal & Stellar Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-0A0A23?style=for-the-badge&logo=python&logoColor=7C4DFF" alt="Python">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"
+    alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"
+    alt="Wireshark">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS">
 </div>
 
 ---
@@ -40,24 +47,27 @@ I'm a passionate technologist with a keen interest in exploring and understandin
 
 ---
 
-### 📊 GitHub Stats
+### 📡 Cosmic Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" alt="Streak Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=midnight-purple"
+    alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=midnight-purple"
+    alt="Streak Stats" width="48%">
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌍 Interstellar Connections
 <div align="center">
   <a href="https://x.com/JotaroNihal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/ishtiak-nihal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:[your-email]"><img
+      src="https://img.shields.io/badge/Email-0A0A23?style=for-the-badge&logo=gmail&logoColor=7C4DFF" alt="Email"></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2X8g4U8zXyLfO/giphy.gif" alt="Futuristic GIF" width="300">
-  <p>✨ "The future is now—let’s build it together!" ✨</p>
+  <img src="https://media.giphy.com/media/l0HlGma97jJ2E3LGM/giphy.gif" alt="Cosmic GIF" width="300">
+  <p>✨ "Securing the galaxy, one byte at a time." ✨</p>
 </div>
