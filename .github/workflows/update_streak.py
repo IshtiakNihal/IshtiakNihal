@@ -5,7 +5,7 @@ import json
 from datetime import datetime, timedelta
 
 # GitHub API setup
-username = "ahmed-ishtiak-nihal"
+username = "IshtiakNihal"
 token = os.getenv("GITHUB_TOKEN")
 headers = {"Authorization": f"token {token}"}
 
