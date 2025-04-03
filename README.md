@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+
 <div align="center">
 
   # 🌠 Ahmed Ishtiak Nihal's Cosmic Firewall 🌠
@@ -57,6 +59,20 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 ### 🏆 Cosmic Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IshtiakNihal&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+---
+
+### 🎮 Cosmic Streak Quest
+<div align="center">
+  <img src="https://img.shields.io/badge/Streak-5%2F30-7C4DFF?style=for-the-badge&logo=fire" alt="Streak Progress">
+  <img src="https://progress-bar.dev/5/?scale=30&title=Streak%20Progress&width=200&color=7C4DFF&suffix=%20Days" alt="Progress Bar">
+  <br>
+  <img src="https://img.shields.io/badge/Bronze%20Streak-5%20Days-7C4DFF?style=for-the-badge&logo=trophy" alt="Bronze Streak">
+  <img src="https://img.shields.io/badge/Galactic%20Rank-Cosmic%20Defender-7C4DFF?style=for-the-badge&logo=rocket" alt="Galactic Rank">
+  <br>
+  <img src="https://media.giphy.com/media/l0HlGma97jJ2E3LGM/giphy.gif" alt="Cosmic Animation" width="100">
+  <p style="font-family: 'Orbitron', sans-serif; color: #7C4DFF; font-size: 18px;">🌟 Current Streak: 5 Days | Goal: 30 Days 🌟</p>
 </div>
 
 ---
