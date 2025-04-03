@@ -66,13 +66,15 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 ### 🎮 Cosmic Streak Quest
 <div align="center">
   <img src="https://img.shields.io/badge/Streak-5%2F30-7C4DFF?style=for-the-badge&logo=fire" alt="Streak Progress">
-  <img src="https://progress-bar.dev/5/?scale=30&title=Streak%20Progress&width=200&color=7C4DFF&suffix=%20Days" alt="Progress Bar">
-  <br>
+  <img src="https://img.shields.io/badge/dynamic/json?color=7C4DFF&label=Streak%20Progress&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-ishtiak-nihal%2Fahmed-ishtiak-nihal%2Fmain%2Fstreak.json&style=for-the-badge&max=30" alt="Progress Bar">
+  <br><br>
   <img src="https://img.shields.io/badge/Bronze%20Streak-5%20Days-7C4DFF?style=for-the-badge&logo=trophy" alt="Bronze Streak">
   <img src="https://img.shields.io/badge/Galactic%20Rank-Cosmic%20Defender-7C4DFF?style=for-the-badge&logo=rocket" alt="Galactic Rank">
+  <br><br>
+  <img src="https://media.giphy.com/media/3o7TKz9s2e1j2o0FZm/giphy.gif" alt="Cosmic Animation" width="150">
   <br>
-  <img src="https://media.giphy.com/media/l0HlGma97jJ2E3LGM/giphy.gif" alt="Cosmic Animation" width="100">
-  <p style="font-family: 'Orbitron', sans-serif; color: #7C4DFF; font-size: 18px;">🌟 Current Streak: 5 Days | Goal: 30 Days 🌟</p>
+  **🌟 Current Streak: 5 Days | Goal: 30 Days 🌟**  
+  *Level Up: Keep contributing to reach the next rank!*
 </div>
 
 ---
