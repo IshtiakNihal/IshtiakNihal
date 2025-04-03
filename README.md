@@ -14,7 +14,7 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=ahmed-ishtiak-nihal&color=blueviolet&style=plastic&base=1000&abbreviated=true" alt="Profile Views">
   <br><br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg2aHBqOWQ0eXZma3piajc3cTgzc2Rpa2ptN2JyZ2g3dXdxbnZqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BoCVdjSJOWT0Fpu/giphy.gif" alt="UFO Animation" width="200">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg2aHBqOWQ0eXZma3piajc3cTgzc2Rpa2ptN2JyZ2g3dXdxbnZqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BoCVdjSJOWT0Fpu/giphy.gif" alt="UFO Animation" width="160">
 </div>
 
 ---
@@ -75,14 +75,14 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 ### 🎮 Cosmic Streak Quest
 <div align="center">
   🌌✨ **Galactic Progress Dashboard** ✨🌌  
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/Streak-5%2F30-7C4DFF?style=for-the-badge&logo=fire" alt="Streak Progress">
   <img src="https://img.shields.io/badge/dynamic/json?color=7C4DFF&label=Streak%20Progress&query=progress&url=https%3A%2F%2Fraw.githubusercontent.com%2Fahmed-ishtiak-nihal%2Fahmed-ishtiak-nihal%2Fmain%2Fstreak.json&style=for-the-badge&max=30" alt="Progress Bar">
   <br><br>
   <img src="https://img.shields.io/badge/Bronze%20Streak-5%20Days-7C4DFF?style=for-the-badge&logo=trophy" alt="Bronze Streak">
   <img src="https://img.shields.io/badge/Galactic%20Rank-Cosmic%20Defender-7C4DFF?style=for-the-badge&logo=rocket" alt="Galactic Rank">
   <br><br>
-  <img src="cosmic-star.gif" alt="Cosmic Animation" width="150">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2czdW50czh6bjc5bmEwNmVhZmR4OWVveXU5bGM5MzVxOWgwMWFyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Cosmic Animation" width="150">
   <br>
   **🌟 Current Streak: 5 Days | Goal: 30 Days 🌟**  
   *Level Up: Keep contributing to reach the next rank!*  
