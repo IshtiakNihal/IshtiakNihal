@@ -2,19 +2,19 @@
 
   # 🌠 Ahmed Ishtiak Nihal's Cosmic Firewall 🌠
 
-  ![Typing
-  SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=7C4DFF&size=30¢er=true&vCenter=true&width=600&lines=Cybersecurity+Guardian+%7C+Stellar+Code+Craftsman+%7C+Digital+Cosmonaut)
-
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=7C4DFF&size=30¢er=true&vCenter=true&width=800&lines=Cybersecurity+Guardian+%7C+Stellar+Code+Craftsman+%7C+Digital+Cosmonaut)
+  
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0A0A23/7C4DFF?text=Galactic+Security+Horizon" alt="Cosmic Banner"
+  <img src="file:///E:/github/readme/cybersecurityImage.png" alt="Cosmic Banner"
     width="100%">
 </div>
 
 ---
+
 
 ### 🌌 About Me
 Greetings, traveler! I’m Ahmed Ishtiak Nihal, a cybersecurity enthusiast and I'm a passionate technologist with a keen interest
@@ -49,10 +49,8 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 
 ### 📡 Cosmic Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=midnight-purple"
-    alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=midnight-purple"
-    alt="Streak Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=IshtiakNihal&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshtiakNihal&theme=midnight-purple" alt="Streak Stats" width="48%">
 </div>
 
 ---
@@ -61,7 +59,7 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 <div align="center">
   <a href="https://x.com/JotaroNihal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/ishtiak-nihal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[your-email]"><img
+  <a href="mailto:ahmedishtiaknihal@gmail.com"><img
       src="https://img.shields.io/badge/Email-0A0A23?style=for-the-badge&logo=gmail&logoColor=7C4DFF" alt="Email"></a>
 </div>
 
