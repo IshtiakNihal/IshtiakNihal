@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="[your-image-URL]" alt="Cosmic Banner" width="100%">
+  <img src="https://github.com/IshtiakNihal/IshtiakNihal/blob/ddf6373fc9a77cd7d600968779288e60508655a3/cybersecurityImage.png" alt="Cosmic Banner" width="100%">
 </div>
 
 ---
