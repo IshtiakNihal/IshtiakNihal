@@ -56,7 +56,7 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 
 ### 🏆 Cosmic Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-ishtiak-nihal&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=IshtiakNihal&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ---
