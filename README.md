@@ -9,8 +9,7 @@
 ---
 
 <div align="center">
-  <img src="[file:///E:/github/readme/cybersecurityImage.png](https://sdmntprwestus.oaiusercontent.com/files/00000000-29c8-5230-878b-aad93f6f3ac0/raw?se=2025-04-03T10%3A32%3A25Z&sp=r&sv=2024-08-04&sr=b&scid=7971c2d2-797f-5649-99d6-aab5a5653107&skoid=51916beb-8d6a-49b8-8b29-ca48ed86557e&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T04%3A59%3A12Z&ske=2025-04-04T04%3A59%3A12Z&sks=b&skv=2024-08-04&sig=rZekBGVFe5%2BHx5zL1waNq0ERqWMz8uLRp4ohVag9r1I%3D)" alt="Cosmic Banner"
-    width="100%">
+  <img src="[your-image-URL]" alt="Cosmic Banner" width="100%">
 </div>
 
 ---
