@@ -2,6 +2,7 @@ import requests
 import re
 import os
 import json
+from datetime import datetime, timedelta
 
 # GitHub API setup
 username = "ahmed-ishtiak-nihal"
@@ -34,24 +35,38 @@ response = requests.post(
 )
 data = response.json()
 
+# Check for API errors
+if "errors" in data:
+    print("Error fetching contribution data:", data["errors"])
+    exit(1)
+
 # Calculate current streak
 weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
 streak = 0
-today = None
-from datetime import datetime, timedelta
+today = datetime.utcnow().date()  # Use today's date in UTC
+found_today = False
 
 for week in reversed(weeks):
     for day in reversed(week["contributionDays"]):
-        date = datetime.strptime(day["date"], "%Y-%m-%d")
-        if today is None:
-            today = date
+        date = datetime.strptime(day["date"], "%Y-%m-%d").date()
+        # Skip future dates (in case API returns them)
         if date > today:
             continue
-        if day["contributionCount"] > 0:
-            streak += 1
-        else:
-            break
-    if day["contributionCount"] == 0:
+        # Check if this is today
+        if date == today:
+            found_today = True
+            if day["contributionCount"] > 0:
+                streak += 1
+            else:
+                break  # If no contribution today, streak ends
+        # For past days, count streak
+        elif date < today:
+            if found_today:  # Only count past days if we've found today
+                if day["contributionCount"] > 0:
+                    streak += 1
+                else:
+                    break  # Streak ends if no contribution on this day
+    if not found_today or (found_today and day["contributionCount"] == 0):
         break
 
 # Define goal, progress, and achievement
