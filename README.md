@@ -2,7 +2,7 @@
 
   # 🌠 Ahmed Ishtiak Nihal's Cosmic Firewall 🌠
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=7C4DFF&size=30¢er=true&vCenter=true&width=800&lines=Cybersecurity+Guardian+%7C+Code+Craftsman+%7C+Digital+Cosmonaut)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=7C4DFF&size=30¢er=true&vCenter=true&width=800&lines=Cybersecurity+Guardian+%7C+Code+Craftsman+%7C)
   
 </div>
 
@@ -49,7 +49,14 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 ### 📡 Cosmic Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IshtiakNihal&show_icons=true&theme=midnight-purple" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshtiakNihal&theme=midnight-purple" alt="Streak Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshtiakNihal&theme=midnight-purple" alt="Streak Stats" width="48%](https://github-readme-streak-stats.herokuapp.com/?user=IshtiakNihal&theme=midnight-purple">
+</div>
+
+---
+
+### 🏆 Cosmic Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-ishtiak-nihal&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </div>
 
 ---
