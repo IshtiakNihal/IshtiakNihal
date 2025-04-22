@@ -56,7 +56,7 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 ### 🚀Cybersecurity Projects
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **[Project 1]** | theHarvester Automation Script Using "Bash in Terminal" [This is an OSINT Tool but I made a script for easy usage. Here we have many searching options but need to search one by one, thats why I made a script to search everything at a time.]. | [e.g., Bash, Shell] | [(https://github.com/IshtiakNihal/theHarvester-Automation-Script.git)] |
+| **[Project 1]** | theHarvester Automation Script Using "Bash in Terminal" [This is an OSINT Tool but I made a script for easy usage. Here we have many searching options but need to search one by one, thats why I made a script to search everything at a time.]. | [e.g., Bash, Shell] | [Smash Here](https://github.com/IshtiakNihal/theHarvester-Automation-Script.git) |
 
 ---
 
