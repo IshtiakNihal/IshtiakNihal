@@ -57,6 +57,7 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | **[Project 1]** | theHarvester Automation Script Using "Bash in Terminal" [This is an OSINT Tool but I made a script for easy usage. Here we have many searching options but need to search one by one, thats why I made a script to search everything at a time.]. | [e.g., Bash, Shell] | [Smash Here](https://github.com/IshtiakNihal/theHarvester-Automation-Script.git) |
+| **[Project 2]** | Wazuh Alert System for Failed Login Attempts (Log Analysis/SIEM)" [Build a Wazuh-based SIEM system to monitor and alert on failed login attempts in a virtual machine, simulating a SOC’s threat detection process.]. | [e.g., Wazuh, Ubuntu] | [Check it Out!](https://github.com/IshtiakNihal/Wazuh-Alert-System-for-Failed-Login-Attempts.git) |
 
 ---
 
