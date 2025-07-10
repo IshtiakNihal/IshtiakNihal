@@ -66,18 +66,26 @@ fostering a deeper understanding of the ever-evolving technological landscape.
 
 ### 🏆 Cosmic Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IshtiakNihal&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies">
+
+#### 🌌 Trophies & Galactic Victories
+<img src="https://github-profile-trophy.vercel.app/?username=IshtiakNihal&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%">
+
+#### 🚀 CTF Conquest Log
+| **Event**                  | **Date**       | **Competition**         | **Round 1** | **Final Round** | **Link**          |
+|----------------------------|----------------|-------------------------|-------------|-----------------|-------------------|
+| BUET CTF 2023              | 21 Jul 2023    | BUET CSE Fest 2023 CTF  | 23rd        | 17th            | [Details](https://shorturl.at/qqevS) |
+| MIST LeetCon 2023          | 20 May 2023    | MIST LeetCon 2023       | 11th        | 37th            | [Details](https://shorturl.at/J0PHz) |
+| Cyber Raid 2025            | 01 Feb 2025    | Cyber Raid 2025         | 34th        | 27th            | [N/A]             |
+
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/BUET_CTF_2023-0A0A23?style=for-the-badge&logo=cyberark&logoColor=7C4DFF" alt="BUET CTF 2023">
+  <img src="https://img.shields.io/badge/MIST_LeetCon_2023-0A0A23?style=for-the-badge&logo=tryhackme&logoColor=7C4DFF" alt="MIST LeetCon 2023">
+  <img src="https://img.shields.io/badge/Cyber_Raid_2025-0A0A23?style=for-the-badge&logo=hackthebox&logoColor=7C4DFF" alt="Cyber Raid 2025">
 </div>
 
----
+<p style="text-align: center; color: #7C4DFF; font-style: italic;">✨ Conquering the digital cosmos, one flag at a time! ✨</p>
 
-### 🎮 Cosmic Streak Quest
-<div align="center">
-  <br><br>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2czdW50czh6bjc5bmEwNmVhZmR4OWVveXU5bGM5MzVxOWgwMWFyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif" alt="Cosmic Animation" width="150">
-  <br>
 </div>
-
 ---
 
 ### 🌍 Interstellar Connections
