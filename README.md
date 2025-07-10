@@ -6,11 +6,6 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=7C4DFF&size=30¢er=true&vCenter=true&width=800&lines=Cybersecurity+Guardian+%7C+Code+Craftsman+%7C)
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@N0Ig3L/30-nites-of-code)  
-  ![@N0Ig3L #30NitesOfCode](https://www.codedex.io/api/petStatus?user=N0Ig3L)
-</div>
-
 ### 👾 Interstellar Visitors
 <div align="center">
   🌌 **Travelers from Across the Galaxy!** 🌌  
