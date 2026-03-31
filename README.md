@@ -2,7 +2,7 @@
 
 # Ahmed Ishtiak Nihal
 
-### Cybersecurity Engineer
+### Cybersecurity Enthusiast
 
 <p>
   <img src="https://img.shields.io/badge/SOC%20Operations-0d1117?style=flat-square&logo=opsgenie&logoColor=58a6ff" alt="SOC Operations" />
