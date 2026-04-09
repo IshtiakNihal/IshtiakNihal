@@ -23,8 +23,6 @@ Currently building advanced threat detection systems and exploring LLM applicati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IshtiakNihal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-&nbsp;
 <img src="https://streak-stats.demolab.com?user=IshtiakNihal&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=7d8590" height="160"/>
 
 </div>
