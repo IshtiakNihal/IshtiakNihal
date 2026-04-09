@@ -101,13 +101,13 @@ AWS CSPM evaluating 15 security controls across S3, IAM, and EC2. Deterministic 
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtiak-nihal/)&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NOIGEL)&nbsp;
-[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/JotaroNihal)&nbsp;
-[![ACERGION](https://img.shields.io/badge/ACERGION-1f6feb?style=flat-square&logo=hackthebox&logoColor=white)](https://acergion.github.io)&nbsp;
-[![CTFtime](https://img.shields.io/badge/CTFtime-1f6feb?style=flat-square&logoColor=white)](https://ctftime.org/team/175853)&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/618145064895643659)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedishtiaknihal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ishtiak--nihal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtiak-nihal/)&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-NOIGEL-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/NOIGEL)&nbsp;
+[![X](https://img.shields.io/badge/X-JotaroNihal-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/JotaroNihal)&nbsp;
+[![ACERGION](https://img.shields.io/badge/ACERGION-acergion.github.io-1f6feb?style=flat-square&logo=hackthebox&logoColor=white)](https://acergion.github.io)&nbsp;
+[![CTFtime](https://img.shields.io/badge/CTFtime-ACERGION-1f6feb?style=flat-square&logoColor=white)](https://ctftime.org/team/175853)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-noigel-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/618145064895643659)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ahmedishtiaknihal-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedishtiaknihal@gmail.com)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:388bfd,100:58a6ff&height=6&section=footer" width="100%"/>
